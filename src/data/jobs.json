@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Frontend Developer",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 2,
+    "title": "Product Designer",
+    "department": "Design",
+    "location": "Remote",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 3,
+    "title": "Backend Engineer",
+    "department": "Engineering",
+    "location": "New York, NY",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 4,
+    "title": "Marketing Intern",
+    "department": "Marketing",
+    "location": "Austin, TX",
+    "roleType": "Internship"
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "department": "Engineering",
+    "location": "Seattle, WA",
+    "roleType": "Contract"
+  },
+  {
+    "id": 6,
+    "title": "UX Researcher",
+    "department": "Design",
+    "location": "Remote",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 7,
+    "title": "Data Scientist",
+    "department": "Data",
+    "location": "Boston, MA",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 8,
+    "title": "Content Writer",
+    "department": "Marketing",
+    "location": "Remote",
+    "roleType": "Contract"
+  },
+  {
+    "id": 9,
+    "title": "Mobile Developer",
+    "department": "Engineering",
+    "location": "Los Angeles, CA",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 10,
+    "title": "HR Coordinator",
+    "department": "Human Resources",
+    "location": "Chicago, IL",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 11,
+    "title": "Sales Development Rep",
+    "department": "Sales",
+    "location": "Miami, FL",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 12,
+    "title": "Software Engineering Intern",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "roleType": "Internship"
+  },
+  {
+    "id": 13,
+    "title": "Brand Manager",
+    "department": "Marketing",
+    "location": "New York, NY",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 14,
+    "title": "Security Analyst",
+    "department": "Security",
+    "location": "Remote",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 15,
+    "title": "UI/UX Designer",
+    "department": "Design",
+    "location": "Portland, OR",
+    "roleType": "Contract"
+  },
+  {
+    "id": 16,
+    "title": "Machine Learning Engineer",
+    "department": "Data",
+    "location": "San Francisco, CA",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 17,
+    "title": "Customer Success Manager",
+    "department": "Sales",
+    "location": "Remote",
+    "roleType": "Full-time"
+  },
+  {
+    "id": 18,
+    "title": "QA Engineer",
+    "department": "Engineering",
+    "location": "Austin, TX",
+    "roleType": "Contract"
+  }
+]
